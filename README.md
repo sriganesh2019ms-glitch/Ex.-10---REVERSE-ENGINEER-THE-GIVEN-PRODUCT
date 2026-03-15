@@ -31,9 +31,9 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](.png)
+![image](A.png)
 ### Output:
-![image](.png)
+![image](N.png)
 
 ### Name:S.SRIGANESH
 ### Register Number:212225220102
